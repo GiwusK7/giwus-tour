@@ -3,7 +3,7 @@ import { services } from '../data'
 const Services = () => {
   return (
     <section className='section services' id='services'>
-      <Title title='our' subTitle='services' />
+      <Title title='our Services' subTitle='services' />
 
       <div className='section-center services-center'>
         {services.map((service) => {

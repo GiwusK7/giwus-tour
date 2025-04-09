@@ -1,5 +1,5 @@
 import React from 'react'
-import about from '../images/about.jpeg'
+import about from '../images/about.jpeg1.png'
 import Title from './Title'
 
 const About = () => {
@@ -18,7 +18,7 @@ const About = () => {
           />
         </div>
         <article className="about-info">
-          <h3>explore the difference</h3>
+          <h3>explore the difference with Giwus</h3>
           <p>
           What is it we want out of travel? Is it to take snapshots of ourselves in front of famous monuments, surrounded by other tourists? To eat unfamiliar food chosen from unintelligible menus? To earn frequent-flier miles? No. It's to glimpse what life is like somewhere else.
           </p>

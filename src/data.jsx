@@ -18,15 +18,16 @@ export const pageLinks = [
 // social media links
 
 export const socialLinks= [
-    {id: 1,href: 'https://Wa.me/+231775365853', icon: 'fab fa-whatsapp', target: '_blank'},
-    {id: 2,href: 'https://x.com/Kromahemma', icon: 'fab fa-twitter', target: '_blank'},
+    {id: 1,href: 'https://Wa.me/+231886262697', icon: 'fab fa-whatsapp', target: '_blank'},
+    {id: 2,href: 'https://x.com/giwusliving?s=21', icon: 'fab fa-twitter', target: '_blank'},
+    {id: 2,href: 'github.com/GiwusK7', icon: 'fab fa-github', target: '_blank'},
     {id: 3,href: 'https://www.linkedin.com/in/emmanuel-kromah-09b343311/', icon: 'fab fa-linkedin', target: '_blank'},
-    {id: 4,href: 'https://www.instagram.com/giwusemmanuel/', icon: 'fab fa-instagram', target: '_blank'}
+    {id: 4,href: 'https://www.instagram.com/giwusliving?', icon: 'fab fa-instagram', target: '_blank'}
 ]
 
 // Services featured links
 export const services = [
-    {id: 1, icon: "fas fa-water fa-fw", title: "the kpatawee waterfalls", text: " Kpatawee Waterfall is in Bong County,in Liberia about 200km away from Monrovia, making it three hrs drive. It's close to Gbanga, and the turnoff to the waterfall is just before Cuttington University campus."},
+    {id: 1, icon: "fas fa-water fa-fw", title: "the kpatawee waterfalls", text: " Kpatawee Waterfall is in Bong County,in Liberia about 200km away from Monrovia, making it three hrs drive. It's close to Gbanga, and the turnoff to the waterfall is just before Cuttington University campus. And this is my home Town"},
 
     {id: 2, icon: "fas fa-tree fa-fw", title: "the kpatawee resort", text: " Whether you seek a breathtaking adventure or a peaceful retreat, Kpatawee resort will captivate your senses leaving matchless memories on your soul. Come and discover the wonders that await you at this hidden gem."},
 
